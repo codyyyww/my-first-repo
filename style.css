@@ -1,1 +1,8 @@
-
+a:link{color:blue;
+       text-decoration:none;}
+a:visited{color:green;}
+a:hover{color: red;
+  text-decoration: underline;}
+a:active {
+  color: orange;
+}
